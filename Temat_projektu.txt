@@ -1,0 +1,1 @@
+U¿yæ klasy observer zamiast wykorzystania metody updateDriverInfo, setCurrentCommand ma juz u¿yte(mo¿na sie wzorowaæ)
